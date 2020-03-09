@@ -1,0 +1,11 @@
+D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp3.1\PruebaSabadell.exe
+D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp3.1\PruebaSabadell.deps.json
+D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp3.1\PruebaSabadell.runtimeconfig.json
+D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp3.1\PruebaSabadell.runtimeconfig.dev.json
+D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp3.1\PruebaSabadell.dll
+D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp3.1\PruebaSabadell.pdb
+D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp3.1\PruebaSabadell.csprojAssemblyReference.cache
+D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp3.1\PruebaSabadell.AssemblyInfoInputs.cache
+D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp3.1\PruebaSabadell.AssemblyInfo.cs
+D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp3.1\PruebaSabadell.dll
+D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp3.1\PruebaSabadell.pdb

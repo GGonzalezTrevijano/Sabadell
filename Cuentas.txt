@@ -1,0 +1,3 @@
+Pedro	800	2233	150
+Guillermo	5000	2592	100
+Pepito	2500	1111	4
