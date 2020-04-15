@@ -3,8 +3,8 @@ D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp2.0\PruebaSabadell
 D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp2.0\PruebaSabadell.runtimeconfig.dev.json
 D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp2.0\PruebaSabadell.dll
 D:\Proyectos Programación\PruebaSabadell\bin\Debug\netcoreapp2.0\PruebaSabadell.pdb
-D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp2.0\PruebaSabadell.csprojAssemblyReference.cache
 D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp2.0\PruebaSabadell.AssemblyInfoInputs.cache
 D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp2.0\PruebaSabadell.AssemblyInfo.cs
 D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp2.0\PruebaSabadell.dll
 D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp2.0\PruebaSabadell.pdb
+D:\Proyectos Programación\PruebaSabadell\obj\Debug\netcoreapp2.0\PruebaSabadell.csprojAssemblyReference.cache
